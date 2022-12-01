@@ -1,0 +1,15 @@
+Archivos sobre datos nacionales de delitos y geometría georreferenciada del terrritorio de Sonora.
+
+      Los datos de insidencia delictiva por municipio de México (2015) son proporcionados por
+    Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública (SESNSP), y cuenta con
+    informacion sobre de los registros por mes de los delitos: locacion, tipo de delito, subtipo,
+    modalidad y bien juridico que afecta.
+            
+      Los datos georreferenciados de los territorios de Sonora corresponden al Inventario Nacional
+    de Vivienda (INV) realizado por INEGI.
+
+Links de descarga:
+https://drive.google.com/file/d/1aV4YuWyLq2ME8huVqsw4kK2_iH4dSNQp/view
+https://www.inegi.org.mx/img/ico/ico_zip.png
+
+Descargados el 6 de noviembre de 2022.
